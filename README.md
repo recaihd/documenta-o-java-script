@@ -47,3 +47,12 @@ Existem várias formas:
 <script>
   console.log("Olá Mundo!");
 </script>
+
+// Comentário de uma linha
+/*
+  Comentário de várias linhas
+*/
+let nome = "Ricardo"; // variável
+const idade = 25;     // constante
+console.log(nome, idade); // saída no console
+
